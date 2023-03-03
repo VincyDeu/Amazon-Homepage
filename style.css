@@ -1,0 +1,105 @@
+
+body {
+    background-color: rgb(220, 220, 220);
+}
+
+.child {
+    background-color: rgb(1, 31, 56);
+    width: 100%;
+    margin: 0;
+    justify-content: space-between;
+}
+
+img {
+    width: 8%;
+    padding: 10px;
+}
+
+#container2 {
+    display: flex;
+    padding: 5px;
+    align-content: flex-start;
+    background-color: rgb(79, 79, 152);
+}
+
+.OrangeCenter {
+    background-color: orange;
+    width: 95%;
+    margin-top: 30px;
+    padding: 3.5px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+.bgimage {
+    width: 100%;
+    height: 30vh;
+}
+
+.Holiday p {
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.Holiday h6 {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: bolder;
+}
+
+#container4 {
+    background-color: rgb(247, 243, 243);
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+}
+
+.TodoImage {
+    width: 300%;
+}
+
+.PlayWrite {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.Paragrafi a {
+    
+}
+
+.AltraImmagine {
+    width: 1200%;
+}
+
+.AltraImmagine2 {
+    width: 1200%;
+}
+
+#BackTop {
+    text-align: center;
+    background-color: rgb(185, 178, 220);
+}
+
+#FooterLogo {
+    background-color: rgb(79, 79, 235);
+    margin: 0;
+    height: 15vh;
+    text-align: center;
+}
+
+.ImmagineLogo2 {
+    justify-content: end;
+}
+
+#FooterLogo img {
+    text-align: center;
+}
